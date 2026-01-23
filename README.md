@@ -31,7 +31,7 @@ dit is een gif van een neweren versie maar het funtioneert om te laten zien dat 
 
 ![game dev hit register](https://github.com/user-attachments/assets/4f7565f5-3668-4613-8a56-92e5aabad786)
 
-dit is well de orginelen code 
+[script](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/BumperHit.cs)
 
 
 OPDRACHT 2.2 Peggle Game, Mikken, Schieten en Line Rendering
@@ -40,17 +40,21 @@ hier heb ik de funties toegevoegt dat de cannon mijn muis volgt een line heb om 
 
 ![line render](https://github.com/user-attachments/assets/14fd9d39-57d6-424e-bb66-e6e6db33c5f8)
 
-dit is mijn shoot script
+dit is mijn shoot en line script
+[script](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/shoot.cs)
+[script2](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/aim.cs)
 
 OPDRACHT 3.1 Peggle, hits & score 
 dit is weer een gif uit een nieuwere versie maar deze telt voor de ui multiplier en de score want je ziet hier in de gif dat me ui ook werkt
 
 ![score](https://github.com/user-attachments/assets/b8a9a9d0-04df-43df-9f74-a548ea953542)
+[script] (https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/ComboSystem.cs)
 
 OPRACHT 3.2 Peggle Game, Combos, Multiplier, Events
 ik heb hier de socre geimplemnt en de multiplier
 
 ![score](https://github.com/user-attachments/assets/6c0eb2e7-dac4-447e-a23c-6e6343ebc56a)
+[script](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/ComboSystem.cs)
 
 4.1 Level Design & UI
 hier heb ik de ui geimplement en me level veder uit gebreid
@@ -61,11 +65,13 @@ hier heb ik de ui geimplement en me level veder uit gebreid
 ik heb hier de code geimplement om de score op de ui te tonenen
 
 ![ui game dev](https://github.com/user-attachments/assets/0403ca69-f520-4e97-8aa2-87d8507b84de)
+[scripts](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/UIScoreBoard.cs)
 
 5.2 Particles , Sounds & Shakes
 ik heb hier particles en een sound toegevoegd
 
 ![particle](https://github.com/user-attachments/assets/a56db9c6-105e-433c-90c6-0e4e494d8ee9)
+[script](https://github.com/codievalkhof/m2-game-dev/blob/main/Assets/Scenes/scripts/SoundManager.cs)
 
 
 
