@@ -25,16 +25,13 @@ Onderaan: burger bun
 <img width="1157" height="547" alt="image" src="https://github.com/user-attachments/assets/96f3264a-a4e1-4031-96e2-402d54f50c55" />
 
 
-
-
-
-
-
-
-
-
-OPDRACHT 2.1
+OPDRACHT 2.1 Forces & collision
 in deze opdracht moest ik mijn pegs laten registeren of de ball er tegen aan komt
 dit is een gif van een neweren versie maar het funtioneert om te laten zien dat de opdracht gedaan is omdat ik daar veder op heb gebouwd
 ![game dev hit register](https://github.com/user-attachments/assets/4f7565f5-3668-4613-8a56-92e5aabad786)
 
+OPDRACHT 2.2 Peggle Game, Mikken, Schieten en Line Rendering
+hier heb ik de funties toegevoegt dat de cannon mijn muis volgt een line heb om te zien met hoeveel power je schiet en mijn eigen sprites toegevoegt voor de cannon en ball
+![line render](https://github.com/user-attachments/assets/14fd9d39-57d6-424e-bb66-e6e6db33c5f8)
+
+OPDRACHT 3.1 Peggle, hits & score
