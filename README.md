@@ -32,6 +32,8 @@ dit is een gif van een neweren versie maar het funtioneert om te laten zien dat 
 
 OPDRACHT 2.2 Peggle Game, Mikken, Schieten en Line Rendering
 hier heb ik de funties toegevoegt dat de cannon mijn muis volgt een line heb om te zien met hoeveel power je schiet en mijn eigen sprites toegevoegt voor de cannon en ball
+
+
 ![line render](https://github.com/user-attachments/assets/14fd9d39-57d6-424e-bb66-e6e6db33c5f8)
 
 OPDRACHT 3.1 Peggle, hits & score
