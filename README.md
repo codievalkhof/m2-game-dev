@@ -36,4 +36,8 @@ hier heb ik de funties toegevoegt dat de cannon mijn muis volgt een line heb om 
 
 ![line render](https://github.com/user-attachments/assets/14fd9d39-57d6-424e-bb66-e6e6db33c5f8)
 
-OPDRACHT 3.1 Peggle, hits & score
+OPDRACHT 3.1 Peggle, hits & score 
+dit is weer een gif uit een nieuwere versie maar deze telt voor de ui en de score want je ziet hier in de gif dat me ui ook werkt
+
+![score](https://github.com/user-attachments/assets/b8a9a9d0-04df-43df-9f74-a548ea953542)
+
