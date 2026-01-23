@@ -1,3 +1,4 @@
+OPDRACHT 1.1
 Conceptschets
 Titel: ome co Peggle
 
@@ -22,3 +23,10 @@ Midden: veld vol met toppings (cirkelvormige of onregelmatige patronen)
 Onderaan: burger bun
 
 <img width="1157" height="547" alt="image" src="https://github.com/user-attachments/assets/96f3264a-a4e1-4031-96e2-402d54f50c55" />
+
+
+OPDRACHT 2.1
+in deze opdracht moest ik mijn pegs laten registeren of de ball er tegen aan komt
+dit is een gif van een neweren versie maar het funtioneert om te laten zien dat de opdracht gedaan is omdat ik daar veder op heb gebouwd
+![game dev hit register](https://github.com/user-attachments/assets/4f7565f5-3668-4613-8a56-92e5aabad786)
+
